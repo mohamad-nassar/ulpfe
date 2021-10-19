@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ulpfe/static/css/main.cea5d843.chunk.css",
+    "main.js": "/ulpfe/static/js/main.a0eeed6c.chunk.js",
+    "main.js.map": "/ulpfe/static/js/main.a0eeed6c.chunk.js.map",
+    "runtime-main.js": "/ulpfe/static/js/runtime-main.2bd41bc3.js",
+    "runtime-main.js.map": "/ulpfe/static/js/runtime-main.2bd41bc3.js.map",
+    "static/js/2.dc8bebf7.chunk.js": "/ulpfe/static/js/2.dc8bebf7.chunk.js",
+    "static/js/2.dc8bebf7.chunk.js.map": "/ulpfe/static/js/2.dc8bebf7.chunk.js.map",
+    "static/js/3.7f612288.chunk.js": "/ulpfe/static/js/3.7f612288.chunk.js",
+    "static/js/3.7f612288.chunk.js.map": "/ulpfe/static/js/3.7f612288.chunk.js.map",
+    "index.html": "/ulpfe/index.html",
+    "static/css/main.cea5d843.chunk.css.map": "/ulpfe/static/css/main.cea5d843.chunk.css.map",
+    "static/js/2.dc8bebf7.chunk.js.LICENSE.txt": "/ulpfe/static/js/2.dc8bebf7.chunk.js.LICENSE.txt",
+    "static/media/choice.eeda0305.png": "/ulpfe/static/media/choice.eeda0305.png",
+    "static/media/hide.f1bb0787.png": "/ulpfe/static/media/hide.f1bb0787.png",
+    "static/media/logo.70ec4916.png": "/ulpfe/static/media/logo.70ec4916.png",
+    "static/media/schedule.dd2c501e.png": "/ulpfe/static/media/schedule.dd2c501e.png",
+    "static/media/show.60712395.png": "/ulpfe/static/media/show.60712395.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bd41bc3.js",
+    "static/js/2.dc8bebf7.chunk.js",
+    "static/css/main.cea5d843.chunk.css",
+    "static/js/main.a0eeed6c.chunk.js"
+  ]
+}
